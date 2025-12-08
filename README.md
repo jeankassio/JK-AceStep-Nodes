@@ -1,6 +1,6 @@
 # JK AceStep Nodes for ComfyUI
 
-Advanced nodes optimized for [ACE-Step](https://huggingface.co/Accusoft/ACE-Step) audio generation in ComfyUI.
+Advanced nodes optimized for [ACE-Step](https://huggingface.co/ACE-Step/ACE-Step-v1-3.5B) audio generation in ComfyUI.
 
 ## 📦 Installation
 
