@@ -1,3 +1,4 @@
+[![Somora](https://somora.media/assets/somora-github-en.png)](https://somora.media)
 # JK AceStep Nodes for ComfyUI
 
 Advanced nodes optimized for [ACE-Step](https://huggingface.co/Accusoft/ACE-Step) audio generation in ComfyUI.
